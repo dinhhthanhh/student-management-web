@@ -385,13 +385,13 @@ student-management-app/
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard+Screenshot)
+![Dashboard](./screenshots/Dashboard.png)
 
 ### Add/Edit Student Form
-![Form](https://via.placeholder.com/800x400/764ba2/ffffff?text=Form+Screenshot)
+![Form](./screenshots/Form.png)
 
 ### Search & Sort Features
-![Search](https://via.placeholder.com/800x400/667eea/ffffff?text=Search+Screenshot)
+![Search](./screenshots/Form.png)
 
 > **Note:** Replace placeholder images with actual screenshots of your application
 
