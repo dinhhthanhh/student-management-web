@@ -391,7 +391,7 @@ student-management-app/
 ![Form](./screenshots/Form.png)
 
 ### Search & Sort Features
-![Search](./screenshots/Form.png)
+![Search](./screenshots/Search.png)
 
 > **Note:** Replace placeholder images with actual screenshots of your application
 
