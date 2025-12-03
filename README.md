@@ -122,7 +122,7 @@ docker --version  # Should output Docker version 20.x.x or higher
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-management-app.git
+git clone https://github.com/dinhhthanhh/student-management-app.git
 cd student-management-app
 ```
 
@@ -536,7 +536,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Đìnhh Thànhh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -547,11 +547,11 @@ in the Software without restriction...
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Đìnhh Thànhh**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@dinhhthanhh](https://github.com/dinhhthanhh)
+- Facebook: [Đìnhh Thànhh](https://www.facebook.com/dtks.luv)
+- Email: thanh.nd225670@outlook.com
 
 ---
 
@@ -568,10 +568,10 @@ in the Software without restriction...
 
 ## 📊 Project Status
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/student-management-app)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/student-management-app)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/student-management-app)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/student-management-app?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/dinhhthanhh/student-management-app)
+![GitHub issues](https://img.shields.io/github/issues/dinhhthanhh/student-management-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dinhhthanhh/student-management-app)
+![GitHub stars](https://img.shields.io/github/stars/dinhhthanhh/student-management-app?style=social)
 
 ---
 
@@ -601,7 +601,7 @@ in the Software without restriction...
 
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Đình Thành](https://github.com/dinhhthanhh)
 
 **[Back to Top](#-student-management-application)**
 
